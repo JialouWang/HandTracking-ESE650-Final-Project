@@ -1,2 +1,2 @@
-After unzip file, please first source devel/setup.bash
-then ```run roslaunch talker ``` to run the code
+After unzip file, please first "source devel/setup.bash"
+then "run roslaunch talker" to run the code
